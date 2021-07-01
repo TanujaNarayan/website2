@@ -617,11 +617,11 @@
 
 .background3::before {
   content: "";
-  background-image: url(./image/bck4.jpg_fit=scale);
+  background-image: url('./image/bck2(1).jpg');
   background-size: cover;
   position: absolute;
-  height: 60%;
-  width: 100%;
+  height: 100%;
+  width: 1000%;
   z-index: -1;
 }
 
