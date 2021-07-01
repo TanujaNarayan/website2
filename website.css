@@ -38,7 +38,6 @@
 #navbar {
   display: flex;
   align-items: center;
-  position: relative;
   background-color: whitesmoke;
 }
 #logo {
@@ -52,6 +51,7 @@
 
 #navbar ul {
   display: flex;
+  
 }
 #navbar ul li {
   list-style: none;
